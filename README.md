@@ -1,6 +1,6 @@
 # Python for Data Science
 
-This was a short introductionary live session about Data Science from GreatLearning.
+This was a short introductory live session about Data Science from GreatLearning.
 
 The main result is an overview of the basics of ML methods and a live example about supervised learning.
 
