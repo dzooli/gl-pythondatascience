@@ -8,7 +8,7 @@ The notebook is usable with https://colab.research.google.com or in any Jupyter 
 
 # Course from GreatLearning
 
-Python for data science with Anaconda and Jupyter Notebooks
+Python for Machine Learning with Anaconda and Jupyter Notebooks
 
 ## Expectations
 
