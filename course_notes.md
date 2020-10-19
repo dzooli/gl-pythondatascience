@@ -5,6 +5,7 @@
 - Anaconda Individual for Windows
 - Anaconda prompt
   - install package:
+  
   ```bash
   conda install numpy
   ```
